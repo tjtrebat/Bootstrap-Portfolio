@@ -71,7 +71,7 @@ figure {
     margin-bottom: 20px;
 }
 
-#headshot {
+.headshot {
     height: 200px;
     float: left;
     margin: 0px 20px 20px 0px;
@@ -106,7 +106,9 @@ figure {
     .navbar-brand, .navbar-nav {
         width: 100%;
     }
-    #headshot {
+    .headshot {
         float: none;
+        width: auto;
+        height: auto;
     }
 }
