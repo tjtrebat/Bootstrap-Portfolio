@@ -37,6 +37,7 @@ figure {
 
 .nav-item {
     padding: 0px 15px;
+    line-height: 16px;
 }
 
 .nav-item + .nav-item {
