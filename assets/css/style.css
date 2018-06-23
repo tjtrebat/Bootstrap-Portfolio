@@ -101,7 +101,7 @@ figure {
     width: 100%;
 }
 
-@media (max-width: 640px) {
+@media screen and (max-width: 640px) {
     .navbar-brand, .navbar-nav {
         width: 100%;
     }
